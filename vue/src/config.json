@@ -1,0 +1,10 @@
+{
+
+    "ws": {
+        "protocol": "ws",
+        "topic": "chimera",
+        "host": "localhost",
+        "port": "9001"
+    }
+
+}
