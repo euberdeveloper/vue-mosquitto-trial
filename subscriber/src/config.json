@@ -1,0 +1,16 @@
+{
+    "mqtt": {
+        "protocol": "mqtt",
+        "topic": "chimera",
+        "host": "localhost",
+        "port": "1883"
+    },
+
+    "ws": {
+        "protocol": "ws",
+        "topic": "chimera",
+        "host": "localhost",
+        "port": "9001"
+    }
+
+}
