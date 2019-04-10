@@ -22,7 +22,7 @@ On **publisher folder**:
 * Type `npm i`
 * Run `npm run serve:mqtt` or `npm run serve:ws`, depending on the protocol you want to use.
 
-On **subscriber folder**:
+On **vue folder**:
 * Navigate to **vue** dir of this project via cmd.
 * Type `npm i`
 * Run `npm run serve`
