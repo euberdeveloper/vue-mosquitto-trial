@@ -15,10 +15,10 @@
   "license": "MIT",
   "devDependencies": {
     "@types/mqtt": "^2.5.0",
-    "typescript": "^3.4.3"
+    "typescript": "^3.6.2"
   },
   "dependencies": {
-    "@types/node": "^11.13.2",
+    "@types/node": "^11.13.20",
     "mqtt": "^2.18.8"
   }
 }

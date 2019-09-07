@@ -15,8 +15,8 @@
   "license": "MIT",
   "devDependencies": {
     "@types/mqtt": "^2.5.0",
-    "@types/node": "^11.13.2",
-    "typescript": "^3.4.3"
+    "@types/node": "^11.13.20",
+    "typescript": "^3.6.2"
   },
   "dependencies": {
     "mqtt": "^2.18.8"
