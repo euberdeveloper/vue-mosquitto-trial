@@ -19,6 +19,6 @@
     "typescript": "^3.6.2"
   },
   "dependencies": {
-    "mqtt": "^2.18.8"
+    "mqtt": "^3.0.0"
   }
 }

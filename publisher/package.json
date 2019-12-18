@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "@types/node": "^11.13.20",
-    "mqtt": "^2.18.8"
+    "mqtt": "^3.0.0"
   }
 }
