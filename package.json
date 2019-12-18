@@ -1,0 +1,12 @@
+{
+  "name": "vue-mosquitto-trial",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "mosquitto:mqtt": "mosquitto",
+    "mosquitto:ws": "mosquitto -c mosquitto.conf",
+    "mosquitto": "npm run mosquitto:mqtt"
+  },
+  "author": "Eugenio",
+  "license": "MIT"
+}
