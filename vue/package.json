@@ -10,7 +10,7 @@
   "dependencies": {
     "chart.js": "^2.8.0",
     "core-js": "^2.6.9",
-    "mqtt": "^2.18.8",
+    "mqtt": "^3.0.0",
     "vue": "^2.6.6"
   },
   "devDependencies": {
